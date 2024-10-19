@@ -23,27 +23,27 @@ GCSEs: Achieved 8 GCSEs (A-C) as the sole student pursuing GCSEs at the school d
 successfully overcoming systemic barriers
 
 # Positions of responsibility (Full-time Employment | Volunteer Work)
-### Information Advisor, Disability North, The Dene Centre, NE3 1PH Sept 2023 – Oct 2024
-• Analysed and evaluated complex legislation to ensure compliance with key regulations, including the 
+### Information Advisor, Disability North, The Dene Centre, NE3 1PH (Sept 2023 – Oct 2024)
+Analysed and evaluated complex legislation to ensure compliance with key regulations, including the 
 Mental Capacity Act, Human Rights Act 1998, and Equality Act.
-• Conducted independent research to stay informed on signs of abuse, neglect, and exploitation, 
+Conducted independent research to stay informed on signs of abuse, neglect, and exploitation, 
 while collaborating with multiple departments to ensure clear communication, initiate referrals, and 
 provide targeted support to individuals in need.
-• Articulated complex legislation clearly and crafted tailored job advertisements, demonstrating 
+Articulated complex legislation clearly and crafted tailored job advertisements, demonstrating 
 strong communication skills and alignment with organisational goals.
-• Proactively engaged in networking events and meetings to expand organisational outreach and 
+Proactively engaged in networking events and meetings to expand organisational outreach and 
 identify collaborative opportunities.
-• Mediated disputes by fostering constructive dialogue and ensuring adherence to legislative 
+Mediated disputes by fostering constructive dialogue and ensuring adherence to legislative 
 practices between local authorities and clients.
-• Performed comprehensive financial analyses to ensure compliance with local authority policies and 
+Performed comprehensive financial analyses to ensure compliance with local authority policies and 
 support disability-related expenditure claims.
-• Enhanced leadership and organisational skills through inclusive management courses, 
+Enhanced leadership and organisational skills through inclusive management courses, 
 contributing to effective team dynamics and project execution.
-School Governor, Fatfield Academy, Washington, NE38 8RB 2022 – 2024
-• Demonstrated leadership abilities by ensuring the headteacher took responsibility for the school’s 
+### School Governor, Fatfield Academy, Washington, NE38 8RB (2022 – 2024)
+Demonstrated leadership abilities by ensuring the headteacher took responsibility for the school’s 
 performance and management, identifying key stakeholders, and planning strategic development 
 aligned with the school’s ethos.
-• Collaborated with school leadership to drive the strategic development of the school’s performance, 
+Collaborated with school leadership to drive the strategic development of the school’s performance, 
 ensuring alignment with the ethos and future goals.
-• Executed strategic planning by outlining the school’s vision and ethos while overseeing financial 
+Executed strategic planning by outlining the school’s vision and ethos while overseeing financial 
 management and ensuring compliance with policies and procedures.
