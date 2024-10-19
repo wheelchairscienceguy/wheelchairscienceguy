@@ -1,4 +1,3 @@
-# Profile:
 Motivated physics student with a passion for solar physics and space weather research. I possess strong 
 problem-solving abilities, attention to detail, and critical thinking skills. Proficient in applying mathematical 
 and scientific principles to develop and project data trends. With experience in financial operations, I have 
