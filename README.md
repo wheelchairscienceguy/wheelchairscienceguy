@@ -1,5 +1,3 @@
-<html>
-<body>
 Motivated physics student with a passion for solar physics and space weather research. I possess strong 
 problem-solving abilities, attention to detail, and critical thinking skills. Proficient in applying mathematical 
 and scientific principles to develop and project data trends. With experience in financial operations, I have 
@@ -7,7 +5,7 @@ managed large-scale transactions and stakeholder negotiations, showcasing analyt
 skills vital for research. Currently seeking an internship to gain hands-on experience in space research and 
 contribute my analytical skills and enthusiasm for solar physics.
 # Education 
-### MPhys Physics with Astrophysics <p style="color:red;">(2024 - Present)</p>
+### MPhys Physics with Astrophysics (2024 - Present)
 Relevant Modules: Advanced Mathematics for Physicists, Semiconductor Physics, Theory, Computation and 
 Experiments, Thermal and Nuclear Energy, Space-Time and Electromagnetism, Quantum Universe.
 ### Foundation Chemistry, Biology and People Management, University of Teesside (2019 - 2020)
@@ -49,5 +47,3 @@ Collaborated with school leadership to drive the strategic development of the sc
 ensuring alignment with the ethos and future goals.
 Executed strategic planning by outlining the school’s vision and ethos while overseeing financial 
 management and ensuring compliance with policies and procedures.
-<html>
-<body>
