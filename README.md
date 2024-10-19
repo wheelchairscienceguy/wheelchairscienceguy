@@ -5,7 +5,7 @@ managed large-scale transactions and stakeholder negotiations, showcasing analyt
 skills vital for research. Currently seeking an internship to gain hands-on experience in space research and 
 contribute my analytical skills and enthusiasm for solar physics.
 # Education 
-### MPhys Physics with Astrophysics (2024 - Present)
+### MPhys Physics with Astrophysics <p style="color:red;">(2024 - Present)</p>
 Relevant Modules: Advanced Mathematics for Physicists, Semiconductor Physics, Theory, Computation and 
 Experiments, Thermal and Nuclear Energy, Space-Time and Electromagnetism, Quantum Universe.
 ### Foundation Chemistry, Biology and People Management, University of Teesside (2019 - 2020)
@@ -16,9 +16,9 @@ Variety of Organisms
 Relevant Modules: Dynamics, Electromagnetism and Electronics, Calculus, Particles, Waves, and the Big 
 Bang, Research, Analysis, and Presentation, and Experiments and Discovery.
 Achieved: Distinction (76%) in Physics with Astrophysics year 1 and First class (84.4%) in Foundation year.
-### Newcastle Sixth Form College, Newcastle Upon Tyne 2014 – 2017
+### Newcastle Sixth Form College, Newcastle Upon Tyne (2014 – 2017)
 A Levels: Physics, Mathematics, Extended Project
-### Cedars Academy SEND Provision, Low Fell, Gateshead 2009 – 2014
+### Cedars Academy SEND Provision, Low Fell, Gateshead (2009 – 2014)
 GCSEs: Achieved 8 GCSEs (A-C) as the sole student pursuing GCSEs at the school during that period, 
 successfully overcoming systemic barriers
 
